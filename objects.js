@@ -1,0 +1,1 @@
+var playlist = {"ABBA", "SOS"};
